@@ -1,0 +1,396 @@
+stone0:
+  image_extension: png
+  name: Acvamarin
+stone1:
+  image_extension: jpg
+  name: Afganit
+stone10:
+  image_extension: jpg
+  name: Astrofilit
+stone100:
+  image_extension: jpg
+  name: Quantum Quatro
+stone101:
+  image_extension: jpg
+  name: Rhodizit
+stone102:
+  image_extension: jpg
+  name: Richterit
+stone103:
+  image_extension: jpg
+  name: Riolit
+stone104:
+  image_extension: png
+  name: Roca vulcanica
+stone105:
+  image_extension: png
+  name: Rodocrozit
+stone106:
+  image_extension: png
+  name: Rodonit
+stone107:
+  image_extension: png
+  name: Rubin
+stone108:
+  image_extension: jpg
+  name: Rubin in fucsit
+stone109:
+  image_extension: png
+  name: Rubin in zoisit
+stone11:
+  image_extension: png
+  name: Auralit
+stone110:
+  image_extension: png
+  name: Rudraksha
+stone111:
+  image_extension: png
+  name: Safir
+stone112:
+  image_extension: jpg
+  name: Sardonix
+stone113:
+  image_extension: jpg
+  name: Scapolit
+stone114:
+  image_extension: jpg
+  name: Scolecit
+stone115:
+  image_extension: jpg
+  name: Selenit
+stone116:
+  image_extension: jpg
+  name: Septaria
+stone117:
+  image_extension: png
+  name: Serafinit
+stone118:
+  image_extension: png
+  name: Serpentin
+stone119:
+  image_extension: jpg
+  name: Shatukit
+stone12:
+  image_extension: png
+  name: Aventurin
+stone120:
+  image_extension: jpg
+  name: Shiva lingham
+stone121:
+  image_extension: jpg
+  name: Shungit
+stone122:
+  image_extension: png
+  name: Sidef
+stone123:
+  image_extension: png
+  name: Smarald
+stone124:
+  image_extension: png
+  name: Sodalit
+stone125:
+  image_extension: png
+  name: Spinel
+stone126:
+  image_extension: jpg
+  name: Stichtit
+stone127:
+  image_extension: png
+  name: Sugilit
+stone128:
+  image_extension: png
+  name: Super seven (7)
+stone129:
+  image_extension: png
+  name: Tanzanit
+stone13:
+  image_extension: jpg
+  name: Axinit
+stone130:
+  image_extension: jpg
+  name: Tectita
+stone131:
+  image_extension: png
+  name: Thulit
+stone14:
+  image_extension: png
+  name: Azurit
+stone15:
+  image_extension: jpg
+  name: Berile
+stone16:
+  image_extension: png
+  name: Boji Stones
+stone17:
+  image_extension: png
+  name: Brazilianit
+stone18:
+  image_extension: png
+  name: Bronzit
+stone19:
+  image_extension: jpg
+  name: Brucit
+stone2:
+  image_extension: png
+  name: Agate
+stone20:
+  image_extension: png
+  name: Calcedonie
+stone21:
+  image_extension: png
+  name: Calcit
+stone22:
+  image_extension: png
+  name: Carneol
+stone23:
+  image_extension: jpg
+  name: Cavansit
+stone24:
+  image_extension: png
+  name: Celestit
+stone25:
+  image_extension: png
+  name: Charoit
+stone26:
+  image_extension: jpg
+  name: Chiastolith
+stone27:
+  image_extension: png
+  name: Chihlimbar
+stone28:
+  image_extension: png
+  name: Citrin
+stone29:
+  image_extension: png
+  name: Compozit (rasina)
+stone3:
+  image_extension: png
+  name: Amazonit
+stone30:
+  image_extension: png
+  name: Coral
+stone31:
+  image_extension: png
+  name: Crisocola
+stone32:
+  image_extension: png
+  name: Crisopraz
+stone33:
+  image_extension: jpg
+  name: Crocoit
+stone34:
+  image_extension: png
+  name: Cromdiopsid
+stone35:
+  image_extension: png
+  name: Cryolit
+stone36:
+  image_extension: png
+  name: Cuart
+stone37:
+  image_extension: jpg
+  name: Cupru mineral
+stone38:
+  image_extension: jpg
+  name: Danburit
+stone39:
+  image_extension: png
+  name: Diamant
+stone4:
+  image_extension: png
+  name: Ametist
+stone40:
+  image_extension: jpg
+  name: Diamant Herkimer
+stone41:
+  image_extension: jpg
+  name: Dolomit
+stone42:
+  image_extension: jpg
+  name: Dumortierit
+stone43:
+  image_extension: jpg
+  name: Eudialit
+stone44:
+  image_extension: jpg
+  name: Feldspat
+stone45:
+  image_extension: png
+  name: Fenacit
+stone46:
+  image_extension: png
+  name: Fluorit
+stone47:
+  image_extension: jpg
+  name: Fosile
+stone48:
+  image_extension: jpg
+  name: Fucsit
+stone49:
+  image_extension: jpg
+  name: Gaspeit
+stone5:
+  image_extension: png
+  name: Ametrin
+stone50:
+  image_extension: jpg
+  name: Goetit
+stone51:
+  image_extension: png
+  name: Goldstone
+stone52:
+  image_extension: png
+  name: Granat
+stone53:
+  image_extension: jpg
+  name: Heliodor
+stone54:
+  image_extension: png
+  name: Heliotrop
+stone55:
+  image_extension: png
+  name: Hematit
+stone56:
+  image_extension: jpg
+  name: Hemimorfit
+stone57:
+  image_extension: jpg
+  name: Hipersten
+stone58:
+  image_extension: png
+  name: Howlit
+stone59:
+  image_extension: png
+  name: Iolith
+stone6:
+  image_extension: png
+  name: Angelit
+stone60:
+  image_extension: png
+  name: Jad
+stone61:
+  image_extension: jpg
+  name: Jais
+stone62:
+  image_extension: png
+  name: Jasp
+stone63:
+  image_extension: png
+  name: Kianit
+stone64:
+  image_extension: jpg
+  name: Kunzit
+stone65:
+  image_extension: png
+  name: Labradorit
+stone66:
+  image_extension: png
+  name: Lapis Lazuli
+stone67:
+  image_extension: png
+  name: Larimar
+stone68:
+  image_extension: png
+  name: Lemn pietrificat
+stone69:
+  image_extension: png
+  name: Lepidolit
+stone7:
+  image_extension: png
+  name: Apatit
+stone70:
+  image_extension: jpg
+  name: Llanit
+stone71:
+  image_extension: jpg
+  name: Magnetit
+stone72:
+  image_extension: png
+  name: Magnezit
+stone73:
+  image_extension: png
+  name: Malachit
+stone74:
+  image_extension: jpg
+  name: Marcasit
+stone75:
+  image_extension: jpg
+  name: Menilit
+stone76:
+  image_extension: png
+  name: Meteorit
+stone77:
+  image_extension: png
+  name: Mix pietre
+stone78:
+  image_extension: png
+  name: Moldavit
+stone79:
+  image_extension: png
+  name: Mookait
+stone8:
+  image_extension: jpg
+  name: Apofilit
+stone80:
+  image_extension: png
+  name: Morganit
+stone81:
+  image_extension: png
+  name: Nefrit
+stone82:
+  image_extension: jpg
+  name: Nuumit
+stone83:
+  image_extension: png
+  name: Obsidian
+stone84:
+  image_extension: png
+  name: Ochi de pisica
+stone85:
+  image_extension: png
+  name: Ochi de soim
+stone86:
+  image_extension: png
+  name: Ochi de taur
+stone87:
+  image_extension: png
+  name: Ochi de tigru
+stone88:
+  image_extension: png
+  name: Onix
+stone89:
+  image_extension: png
+  name: Opal
+stone9:
+  image_extension: png
+  name: Aragonit
+stone90:
+  image_extension: png
+  name: Opalit
+stone91:
+  image_extension: png
+  name: Peridot
+stone92:
+  image_extension: png
+  name: Perle de cultura
+stone93:
+  image_extension: png
+  name: Petalit
+stone94:
+  image_extension: png
+  name: Piatra lunii
+stone95:
+  image_extension: png
+  name: Piatra soarelui
+stone96:
+  image_extension: png
+  name: Pietersit
+stone97:
+  image_extension: png
+  name: Pirita
+stone98:
+  image_extension: jpg
+  name: Prasiolit
+stone99:
+  image_extension: png
+  name: Prehnit
